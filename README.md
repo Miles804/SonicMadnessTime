@@ -22,4 +22,4 @@ If you have any questions or run into issues when using Sonic Springworks, share
 
 
 # Setup
-Please follow [this setup guide](https://docs.google.com/document/d/1KGrRlS5ugpQy2ic_v0-7XCJFcyQsPdnQCQKN-7Eoil0/edit?usp=sharing) to download and install what is necessary to use Sonic Springworks.
+Please follow [the Setup Guide](https://github.com/YakuzaBalooza/Sonic-Springworks/wiki/Setup-Guide) on the repository's wiki to download and setup what is necessary to use Sonic Springworks.
